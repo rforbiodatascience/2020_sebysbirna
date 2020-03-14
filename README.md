@@ -10,3 +10,5 @@ and RStudio.
 
 This project serves as a preamble for the final project organization and
 version control requirements of the course 22100 (DTU).
+
+Exercise - done\!
