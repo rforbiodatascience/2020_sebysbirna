@@ -1,0 +1,16 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "Sebastian Sbirna"
+date: "3/14/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This is a test project to use for learning about configuring Git with R and RStudio.
+
+This project serves as a preamble for the final project organization and version control requirements of the course 22100 (DTU).
