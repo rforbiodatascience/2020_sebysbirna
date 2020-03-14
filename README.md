@@ -1,8 +1,12 @@
-22100 - R for Bio Data Science
+Reproducible Data Analysis Framework Exercise
 ================
+Sebastian Sbirna
+3/14/2020
 
 ## Description
 
-Week 6 - Exercises: Scripting in a Reproducible and Collaborative Framework using GitHub via RStudio
+This is a test project to use for learning about configuring Git with R
+and RStudio.
 
-This repository is an exercise from the course: R for Bio Data Science
+This project serves as a preamble for the final project organization and
+version control requirements of the course 22100 (DTU).
